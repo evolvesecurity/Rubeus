@@ -11,7 +11,7 @@ variables:
   arch: 'x64'
   conf: 'Release'
   s3path: '/Rubeus.exe'
-  outpath: 'Rubeus/bin/Release/Rubeus.exe'
+  outpath: 'Rubeus/bin/Release/Rubeus35.exe'
   s3helperurl: 'https://github.com/3lpsy/s3upload/releases/download/0.0.1/s3upload-windows-amd64'
 
 steps:
